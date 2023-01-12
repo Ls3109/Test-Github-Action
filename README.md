@@ -9,3 +9,6 @@
 ## 3. Configuration du fichier yaml pour le workflow
 
 ![](yaml.png)
+petite erreur de ma part sur le screen ci-dessus ce n'est pas action/... mais actions/...
+
+![](success.png)
